@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.env
+
+data/scan_history.db
+outputs/*.pdf
+outputs/*.csv
+
+models/*.pkl
